@@ -30,5 +30,5 @@ A conjunção de herança complexa, métodos, propriedades de um objeto devem re
 ## Polimorfismo
 Diferentes classes podem definir o mesmo método ou propriedade
 
-## A Classe
+# A Classe
 JavaScript é uma linguagem baseada em protótipos e não contém a declaração class, como vemos em C++ ou Java. Isso, às vezes, causa confusão em programadores(as) acostumados(as) a linguagens com uma declaração para classes. Em vez disto, JavaScript usa funções como classes. Definir uma classe-função é tão fácil quanto definir uma função. No exemplo abaixo, nós definimos uma nova classe chamada Pessoa.
